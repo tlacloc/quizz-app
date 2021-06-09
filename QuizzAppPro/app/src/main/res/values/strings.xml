@@ -1,0 +1,196 @@
+<resources>
+
+    <!-- keys -->
+
+    <string name="all_questions_key">com.example.redox.quizzapppro.all.questions</string>
+    <string name="sport_questions_key">com.example.redox.quizzapppro.sport.questions</string>
+    <string name="physics_questions_key">com.example.redox.quizzapppro.physics.questions</string>
+    <string name="history_questions_key">com.example.redox.quizzapppro.history.questions</string>
+    <string name="cinema_questions_key">com.example.redox.quizzapppro.cinema.questions</string>
+    <string name="geography_questions_key">com.example.redox.quizzapppro.geography.questions</string>
+    <string name="general_culture_questions_key">com.example.redox.quizzapppro.general.culture.questions</string>
+    <string name="number_of_cheats_key">com.example.redox.quizzapppro</string>
+    <string name="number_of_questions_key">com.example.redox.quizzapppro</string>
+    <string name="difficulty_key">com.example.redox.quizzapppro.difficulty</string>
+
+    <!-- titles -->
+    <string name="app_name">QuizzAppPro</string>
+    <string name="topics">Temas:</string>
+    <string name="num_questions">Número de preguntas</string>
+    <string name="difficulty">Dificultad</string>
+    <string name="cheats_active">Habilitar "cheats"</string>
+    <string name="num_cheats">Número de cheats </string>
+    <string name="question">Pregunta</string>
+
+    <!-- buttons -->
+
+    <string name="start_button">Empezar</string>
+    <string name="option_button">Opciones</string>
+    <string name="all">Todos</string>
+    <string name="topic_cinema">Cine</string>
+    <string name="topic_physics">Física</string>
+    <string name="topic_general_culture">Cultura General</string>
+    <string name="topic_sports">Deportes</string>
+    <string name="topic_history">Historia</string>
+    <string name="topic_geography">Geografía</string>
+    <string name="level_hard">Experto</string>
+    <string name="level_middle">Intermedio</string>
+    <string name="level_ez">Fácil</string>
+    <string name="false_button">FALSO</string>
+    <string name="true_button">VERDADERO</string>
+    <string name="next_button">SIGUENTE</string>
+    <string name="prev_button">ANTERIOR</string>
+    <string name="cheat_button">CHEAT</string>
+
+    
+    
+    
+    <!-- options activity -->
+    
+    
+    <!--
+    <!- subjects ->
+
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+
+    <!- questions ->
+
+    <!- general culture ->
+    <!- hard ->
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+
+    <!- middle ->
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+
+    <!- ez ->
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+
+    <!- geography ->
+    <!- hard ->
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+
+    <!- middle ->
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+
+    <!- ez ->
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+
+    <!- physics ->
+    <!- hard ->
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+
+    <!- middle ->
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+
+    <!- ez ->
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+
+    <!- cinema ->
+    <!- hard ->
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+
+    <!- middle ->
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+
+    <!- ez ->
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+
+    <!- sports ->
+    <!- hard ->
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+
+    <!- middle ->
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+
+    <!- ez ->
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+
+    <!- history ->
+    <!- hard ->
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+
+    <!- middle ->
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+
+    <!- ez ->
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+    <string name=""></string>
+
+ -->
+</resources>

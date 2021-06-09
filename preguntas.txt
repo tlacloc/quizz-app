@@ -1,0 +1,367 @@
+LOS QUE ESTÁN MARCADOS CON UNA "+" SON LAS RESPUESTAS CORRECTAS
+Tema: Cultura general
+	pregunta 1: Es un dios griego
+                    1) Thor
+                    2) Zeus +
+                    3) Júpiter 
+	pregunta 2: Cuántos kilómetros tiene una milla
+                    1) 1.2
+                    2) 2.1
+                    3) 1.6 + 
+	pregunta 3: Capital de China
+                    1) Shangai
+                    2) Beijing +
+                    3) Hong Kong  
+	pregunta 4: Hazte para...
+                    1) allá +
+                    2) ayá
+                    3) hallá 
+	pregunta 5: Con cuántos países tiene frontera México
+                    1) 2
+                    2) 3 +
+                    3) 4 
+	pregunta 6: Quién pintó la noche estrellada
+                    1) Da Vinci
+                    2) Van Gogh +
+                    3) Monet 
+	pregunta 7: Periodo en el que ocurrió la segunda guerra mundial
+                    1) 1939 - 1945 +
+                    2) 1927 - 1943
+                    3) 1914 - 1918
+	pregunta 8: Año de la caída del muro de Berlín
+                    1) 1985
+                    2) 1989 +
+                    3) 1990 
+	pregunta 9: Cuál de estos planetas NO tiene anillos
+                    1) Júpiter
+                    2) Neptuno
+                    3) Venus +  
+	pregunta 10: Cómo se le llama a la palabra que se lee igual de atrás para adelante
+                    1) Onomatopeya
+                    2) Palíndromo +
+                    3) Prosopopeya
+	pregunta 11: A los animales que nacen por huevo se les llama
+                    1) Ovíparos +
+                    2) Vivíparos
+                    3) Omn+ivoros
+	pregunta 12: Autor de "El amor en tiempos de cólera"
+                    1) Gabriel García Márquez +
+                    2) Juan Rulfo
+                    3) Octavio Paz 
+	pregunta 13: Para quién trabaja James Bond
+                    1) MI6 +
+                    2) Interpol
+                    3) Scotland Yard  
+	pregunta 14: MCMLXXXVII es el número
+                    1) 1876
+                    2) 1997
+                    3) 1987 +  
+	pregunta 15: Quién es el secretario general de la ONU
+                    1) Ban Ki-moon +
+                    2) Wa Shin-tong
+                    3) Jim Yong Kim
+Tema: Geografia
+	pregunta 1: Número de entidades federativas de México
+                    1) 30
+                    2) 31
+                    3) 32 +
+	pregunta 2: Capital de Canadá
+                    1) Montreal
+                    2) Toronto
+                    3) Ottawa +
+	pregunta 3: Ciudad más poblada del mundo
+                    1) Nueva York
+                    2) Ciudad de México
+                    3) Tokio +
+	pregunta 4: En qué estado NO habitaron los mayas
+                    1) Chiapas
+                    2) Tabasco
+                    3) Tamaulipas +
+	pregunta 5: Cuál NO es un país
+                    1) Martinica +
+                    2) Barbados
+                    3) Aruba 
+	pregunta 6: El mayor desierto del mundo es
+                    1) Australia
+                    2) Sahara
+                    3) Ártico +
+	pregunta 7: País más religioso del mundo
+                    1) Italia
+                    2) Tailandia +
+                    3) China
+	pregunta 8: Estrasburgo es una ciudad perteneciente a
+                    1) Alemania
+                    2) Suiza
+                    3) Francia + 
+	pregunta 9: Es la ciudad más antigua del mundo
+                    1) Jericó +
+                    2) El Cairo
+                    3) Damasco 
+	pregunta 10: País hispano más extenso
+                    1) Perú
+                    2) Argentina +
+                    3) México
+	pregunta 11: El Everest se encuentra en la frontera de
+                    1) China e India
+                    2) China y Nepal +
+                    3) Nepal e India
+	pregunta 12: Cuántos volcanes activos hay en el mundo
+                    1) 1,300
+                    2) 1,500 +
+                    3) 1,700 
+	pregunta 13: El gran cañón del colorado se encuentra en
+                    1) Oregon
+                    2) Arizona +
+                    3) Texas
+	pregunta 14: El rio más largo de Europa es
+                    1) Loire
+                    2) Volga +
+                    3) Danubio
+	pregunta 15: El punto más profundo en el mar se encuentra a
+                    1) 11,034 metros +
+                    2) 12,209 metros
+                    3) 10,678 metros
+Tema: Física
+	pregunta 1: Qué significa la "C" en la ecuación E = MC^2
+                    1) La carga
+                    2) La velocidad de la luz +
+                    3) La constante de Plank
+	pregunta 2: Cuando vemos una estrella, la vemos
+                    1) Tal cual es
+                    2) Más joven de lo que es +
+                    3) Más vueja de lo que es
+	pregunta 3: Es la temperatura media del universo
+                    1) -273 °C
+                    2) -270 °C +
+                    3) 0 °C
+	pregunta 4: Johannes Kepler dictó tres leyes
+                    1) Relativas a los movimientos de los planetas al rededor del sol +
+                    2) Relativas a los movimientos de las galaxias en el universo
+                    3) Que describe el movimiento de las nubes a gran altura a las variaciones de temperatura
+	pregunta 5: Un protón contiene
+                    1) Neutrones
+                    2) Electrones
+                    3) Quarks +
+	pregunta 6:Fue uno de los grandes pensadores de la física cuántica
+                    1) Aristóteles
+                    2) Niels Bohr +
+                    3) Isaac Newton
+	pregunta 7: Cuál partícula es un hadrón
+                    1) Protón +
+                    2) Electrón
+                    3) Fotón
+	pregunta 8: Para cada partícula le corresponde otra partícula con la misma masa y espin pero carga opuesta.¿Como se llama a estas partículas?
+                    1) Materia oscura
+                    2) Anti materia +
+                    3) Muones
+	pregunta 9: Cuál de estas fuerzas es más intensa
+                    1) Gravedad
+                    2) Electromagnética +
+                    3) La fuerza con la que élla te rechazó
+	pregunta 10: Christian Doppler descubrió
+                    1) El planeta Urano
+                    2) La inducción electromagnética
+                    3) La frecuencia del sonido persivido cuando la fuente se mueve con respecto al observador +
+	pregunta 11: ¿Quien de estos científicos fue el primero en utilizar un acelerador de partículas para desintegrar un núcleo?
+                    1) Albert Einstein
+                    2) Tesla
+                    3) John Cockcroft +
+	pregunta 12: Éste científico trabajó en el CERN
+                    1) Aldo Bartra
+                    2) Martí Montferrer
+                    3) Javier Santaolalla +
+	pregunta 13: Si un átomo es del tamaño de un campo de baloncesto, ¿qué podría representar el núcleo?
+                    1) Una hormiga +
+                    2) El balón
+                    3) Una persona
+	pregunta 14:El físico Max Planck predijo que la energía de las partículas tenia que ser un múltiplo de un valor muy pequeño. ¿Como se llama esa cantidad?
+                    1) Quasar
+                    2) Quark
+                    3) Quantum +
+	pregunta 15: Cuántos Quarks existen en la naturaleza
+                    1) 4
+                    2) 6 +
+                    3) 8
+Tema: Cine
+	pregunta 1: Premio que da la academia de las artes y las ciencias cinematográficas
+                    1) Ariel
+                    2) Oscar +
+                    3) Grammy
+	pregunta 2: Natalie Portman ganó el Oscar a mejor actríz por su actuación en
+                    1) Thor
+                    2) V de vendetta
+                    3) El cisne negro +
+	pregunta 3: En esta película actuó Bruce Willis
+                    1) Doce monos +
+                    2) Rápido y furioso
+                    3) El código Da Vinci
+	pregunta 4: El primer James Bond del cine fue
+                    1) David Niven
+                    2) Barry Nelson
+                    3) Sean Connery +
+	pregunta 5: Director de Batman V Superman
+                    1) Zack Snyder +
+                    2) Christopher Nolan
+                    3) Ben Affleck
+	pregunta 6: En qué película de volver al futuro, Biff está casado con Lorraine
+                    1) 1
+                    2) 2 +
+                    3) 3
+	pregunta 7: Qué cinta tardó 12 años en hacerse
+                    1) Boyhood +
+                    2) Avatar
+                    3) Cronos
+	pregunta 8: En qué película NO sale Scarlett Johansson
+                    1) Iron Man 3 +
+                    2) Her
+                    3) Lucy
+	pregunta 9: Alejandro Gonzalez Iñarritu Ganó el Oscar por la película
+                    1) Babel
+                    2) Biutiful
+                    3) Birdman +
+	pregunta 10: Qué director mexicano tiene menos premios Oscar a mejor director
+                    1) Guillermo del Toro +
+                    2) Alfonso Cuarón
+                    3) Alejandro Gonzalez Iñarritu
+	pregunta 11: Primera película de fantasía de habla no inglesa en ser nominada al Oscar
+                    1) La piel que habito
+                    2) Cinema paradiso
+                    3) El laberinto del fauno +
+	pregunta 12: Cuántos premios Oscar ganó Titatic
+                    1) 10
+                    2) 14 +
+                    3) 15
+	pregunta 13: Tiene el record d ser la actriz más joven con más nominaciones al Oscar
+                    1) Natalie Portman
+                    2) Jennifer Lawrence +
+                    3) Emma Stone
+	pregunta 14: La primera película de gran presupuesto de Tarantino fue
+                    1) Perros de reserva +
+                    2) El cumpleaños de mi mejor amigo
+                    3) Pulp fiction
+	pregunta 15: La icónica frase "say hello to my little friend" fue dicha en la película
+                    1) Good fellas
+                    2) Cara cortada +
+                    3) Arma letal
+Tema: Deportes
+	pregunta 1: Qué deporte estamos practicando si anotamos un triple
+                    1) Futbol
+                    2) Basketball +
+                    3) Baseball
+	pregunta 2: Cuál modalidad NO pertenece al atletismo
+                    1) Lanzamiento de jabalina
+                    2) Tiro con arco +
+                    3) Salto con garrocha
+	pregunta 3: Qué deporte se juega en una picina con una pelota
+                    1) Waterpolo +
+                    2) Clavados
+                    3) Esgrima 
+	pregunta 4: Cuál de las siguientes faltas corresponde al RUGBY
+                    1) Pase adelantado +
+                    2) Mano
+                    3) Retención  
+	pregunta 5: Cada cuánto tiempo se celebran los juegos olímpicos
+                    1) Cada año
+                    2) Cada seis años
+                    3) Cada cuatro años +  
+	pregunta 6: Son deportes en equipo, excepto
+                    1) Triatlón +
+                    2) futbol
+                    3) voleyball  
+	pregunta 7: Cuántos Jugadores juegan en un equipo de voleyball
+                    1) 4
+                    2) 5
+                    3) 6 +  
+	pregunta 8: Cuántos mundiales de futbol han habido en toda la historia
+                    1) 19
+                    2) 21 +
+                    3) 25  
+	pregunta 9: Qué deporte de raqueta se juega con un "volante"
+                    1) Tenis de mesa
+                    2) Pádel
+                    3) Badmington +   
+	pregunta 10: Qué disciplina de hockey NO existe
+                    1) Sobre ruedas +
+                    2) Sobre hierva
+                    3) Sobre hielo
+	pregunta 11: Cuantos juegos es necesario ganar para llevarse un set en el tenis
+                    1) 4
+                    2) 5
+                    3) 6 +
+	pregunta 12: Cuántos jugadores integran un equipo de balonmano
+                    1) 7 +
+                    2) 6
+                    3) 5  
+	pregunta 13: En cuál de los siguientes deportes se puede jugar por detrás de la portería
+                    1) Futbol
+                    2) Hockey sobre patines +
+                    3) Balonmano
+	pregunta 14: En balonmano, si el árbitro marca "golpe franco", está marcando
+                    1) Falta +
+                    2) Gol
+                    3) Expulsión  
+	pregunta 15: En Tenis se diceque vamos "iguales" cuando el marcador es
+                    1) 6 - 6
+                    2) 4 - 4
+                    3) 40 - 40
+Tema: Historia
+	pregunta 1: Cultura que recibe el nombre de "Cultura madre"
+                    1) Olmeca +
+                    2) Azteca
+                    3) Maya  
+	pregunta 2: Ciudad que fundaron los Aztecas
+                    1) Teotihuacán
+                    2) Tenochtitlán +
+                    3) Tultitlán
+	pregunta 3: A los nacidos en la Nueva España de madre y padre españoles se les llamaba
+                    1) Mestizos
+                    2) Gachupines
+                    3) Criollos +
+	pregunta 4: Qué dia se inició la independencia de México
+                    1) 15 de septiembre de 1810
+                    2) 16 de septiembre de 1810 +
+                    3) 15 de septiembre de 1910
+	pregunta 5: Quién NO es un héroe de la independencia
+                    1) José María Morelos
+                    2) Felix Zuloaga +
+                    3) Ignacio Aldama
+	pregunta 6: Primer presidente de México
+                    1) Miguel Hidalgo
+                    2) Agustín de Iturbide
+                    3) Guadalupe Victoria +
+	pregunta 7: El 5 de mayo se celebra
+                    1) El dia de la bandera
+                    2) La batalla de Puebla +
+                    3) La batalla de Chapultepec
+	pregunta 8: Presidente que formuló las leyes de reforma
+                    1) Benito Juarez +
+                    2) Porfirio Díaz
+                    3) Francisco I Madero
+	pregunta 9: En esta guerra se perdió Texas
+                    1) Intervención estadounidence en México +
+                    2) Guerra de los pasteles
+                    3) Guerra de reforma
+	pregunta 10:Francisco I Madero llamó a levantarse en armas contra
+                    1) Victoriano Huerta
+                    2) Venustiano Carranza
+                    3) Porfirio Díaz +
+	pregunta 11: Qué presidente expropió el petróleo
+                    1) Plutarco Elías Calles
+                    2) Miguel Alemán
+                    3) Lázaro Cárdenas +
+	pregunta 12: Partido político que estuvo siete décadas en el poder
+                    1) PRI +
+                    2) PAN
+                    3) PVEM  
+	pregunta 13:Escuadrón mexicano que fue a pelear la segunda guerra mundiak
+                    1) 406
+                    2) 401 +
+                    3) 411   
+	pregunta 14: El meyor desarrollo cultural de mesoamérica se vivió en el periodo
+                    1) Pre-clásico
+                    2) clásico +
+                    3) post-clásico
+	pregunta 15: Formuló la constitución de Apatzingán
+                    1) Vicente Guerrero
+                    2) Agustín de Iturbide
+                    3) José María Moreos +
